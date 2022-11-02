@@ -691,7 +691,7 @@ body {
 }
 
 .for-you {
-  background: url(./../../img/background/background.jpg) center no-repeat;
+  background: url("./../img/background/background.jpg") center no-repeat;
   background-size: cover;
   min-height: 729px;
   display: -webkit-box;
@@ -1106,7 +1106,7 @@ body {
           column-gap: 2px;
 }
 .item-best-product__stars span {
-  background: url(./../../img/icons/star.svg) no-repeat;
+  background: url("./../img/icons/star.svg") no-repeat;
   width: 16px;
   height: 16px;
 }
@@ -1149,7 +1149,7 @@ body {
   padding: 5px 20px 80px 20px;
 }
 .reviews-carousel-control-prev-next-icon {
-  background: url(./../../img/icons/arrow-vektor-right.svg) center no-repeat;
+  background: url("./../img/icons/arrow-vektor-right.svg") center no-repeat;
   min-width: 51px;
   min-height: 51px;
   border-radius: 50%;
@@ -1159,7 +1159,7 @@ body {
   width: 5%;
 }
 .reviews-carousel-control-prev-icon {
-  background: url(./../../img/icons/arrow-vector-left.svg) 45% no-repeat;
+  background: url("./../img/icons/arrow-vector-left.svg") 45% no-repeat;
   min-width: 51px;
   min-height: 51px;
   border-radius: 50%;
@@ -1395,7 +1395,7 @@ body {
   content: "";
   width: 21px;
   height: 23px;
-  background: url(./../../img/icons/person.svg);
+  background: url("./../img/icons/person.svg");
   border: 0px solid #000;
 }
 .form-booking__button.show {
@@ -1522,7 +1522,7 @@ body {
   color: #eab665;
 }
 .item-news__link span {
-  background: url(./../../img/icons/arrows-btn.svg) center no-repeat;
+  background: url("./../img/icons/arrows-btn.svg") center no-repeat;
   min-width: 17px;
   min-height: 9px;
 }
